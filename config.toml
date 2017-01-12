@@ -1,12 +1,12 @@
-baseurl = "http://spf13.com/"
-title = "Hacking Management"
-languageCode = "en-us"
-disqusShortname = "spf13"
-copyright = "Copyright (c) 2008 - 2014, Steve Francia; all rights reserved."
+baseurl = "http://jack2code.com/"
+title = "Jack Leung"
+languageCode = "zh-CN"
+disqusShortname = "jack2code"
+copyright = "Copyright (c) 2010 - 2017, Jack Leung; all rights reserved."
 MetaDataFormat = "yaml"
 
 [author]
-    name = "Steve Francia"
+    name = "Jack Leung"
 
 [indexes]
     tag = "tags"
